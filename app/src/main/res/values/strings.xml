@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">UsingStrings</string>
     <string name="Msg1">i am text msg1</string>
-    <string name="Msg2">i am text msg2</string>
+    <string name="Msg2">i am text msg2. i added another line.</string>
 </resources>
